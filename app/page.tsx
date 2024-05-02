@@ -9,6 +9,10 @@ export default function Home() {
          className="font-bold text-lg text-neutral-100">
           Hello Page
         </Link>
+        <Link href={"https://ja.wiktionary.org/wiki/%E3%81%BE%E3%81%AC%E3%81%91"}
+          className="">
+          🗒️
+        </Link>
       </div>
     </div>
   );
